@@ -1,4 +1,5 @@
 ---
+type: Page
 title: NADA - The Sound Before Form
 slug: /
 sections:
