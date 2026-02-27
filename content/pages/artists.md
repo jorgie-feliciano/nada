@@ -67,10 +67,6 @@ sections:
       Join the first 333 artists building the world's first fully transparent, nonprofit music economy. Early artists get priority access to grants, governance votes, and direct support from the founding community.
 
       *From nothing — for all.*
-
-      **[→ Join the First 333 Artists](mailto:contact@nada.foundation)**
-
-      **[→ Back to Home](/)**
     actions:
       - label: Join the First 333 Artists
         altText: Sign up as an early Nāda artist
@@ -80,10 +76,10 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-      - label: Read the Whitepaper
-        altText: Nāda artist whitepaper
+      - label: Back to Home
+        altText: Return to Nāda homepage
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
