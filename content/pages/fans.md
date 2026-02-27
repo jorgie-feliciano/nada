@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Nada for Fans - Support Artists Directly
+title: Nāda for Fans - Support Artists Directly
 slug: fans
 sections:
   - type: GenericSection
@@ -10,13 +10,13 @@ sections:
       type: TitleBlock
     subtitle: Your support goes directly to the artist. Every cent traceable.
     text: |
-      When you stream on Spotify, the artist gets fractions of a cent. When you tip on Nada, 90% goes directly to them — and you see exactly how.
+      When you stream on Spotify, the artist gets fractions of a cent. When you tip on Nāda, 90% goes directly to them — and you see exactly how.
 
-      ## Why Nada Is Different
+      ## Why Nāda Is Different
 
-      Most platforms take a massive cut and never show you where your money goes. Nada is a nonprofit. There's no VC pulling profit. Every dollar you send to an artist is logged on a public ledger — traceable, honest, real.
+      Most platforms take a massive cut and never show you where your money goes. Nāda is a nonprofit. There's no VC pulling profit. Every dollar you send to an artist is logged on a public ledger — traceable, honest, real.
 
-      ## How to Support an Artist on Nada
+      ## How to Support an Artist on Nāda
 
       **1. Find an artist you love**
       Browse artist pages. Stream their tracks for free.
@@ -27,7 +27,7 @@ sections:
       - Project campaign: fund a specific album, tour, or studio session
 
       **3. See exactly where it goes**
-      Before you confirm, Nada shows you the full breakdown:
+      Before you confirm, Nāda shows you the full breakdown:
       - Artist receives: 90%
       - Collaborators (producer, engineer): split from artist's share
       - Ecosystem pool: 0% for tips, small % for campaigns
@@ -44,7 +44,7 @@ sections:
 
       ## Your Impact, Visible
 
-      Every month, Nada's public transparency page shows:
+      Every month, Nāda's public transparency page shows:
       - Total paid to artists on the platform
       - Active grants funded by the community
       - Top supported artists and scenes
@@ -63,14 +63,14 @@ sections:
 
       ## Why This Matters
 
-      Music generates $40B every year. The artists who make it earn almost none of it. Nada is the nonprofit alternative — built to route value directly back to creators, governed by the people who use it.
+      Music generates $40B every year. The artists who make it earn almost none of it. Nāda is the nonprofit alternative — built to route value directly back to creators, governed by the people who use it.
 
-      Your $5 tip on Nada does more for an artist than 10,000 streams anywhere else.
+      Your $5 tip on Nāda does more for an artist than 10,000 streams anywhere else.
 
       *From nothing — for all.*
     actions:
       - label: Find Artists to Support
-        altText: Discover artists on Nada
+        altText: Discover artists on Nāda
         url: /
         showIcon: true
         icon: arrowRight
@@ -78,7 +78,7 @@ sections:
         style: primary
         elementId: ''
       - label: For Artists
-        altText: How Nada works for artists
+        altText: How Nāda works for artists
         url: /artists
         showIcon: false
         icon: arrowRight
