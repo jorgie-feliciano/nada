@@ -70,10 +70,6 @@ sections:
       Your $5 tip on Nāda does more for an artist than 10,000 streams anywhere else.
 
       *From nothing — for all.*
-
-      **[→ Find Artists to Support](/)**
-
-      **[→ For Artists](/artists)**
     actions:
       - label: Find Artists to Support
         altText: Discover artists on Nāda
@@ -86,7 +82,7 @@ sections:
       - label: For Artists
         altText: How Nāda works for artists
         url: /artists
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
