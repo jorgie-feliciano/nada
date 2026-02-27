@@ -57,23 +57,6 @@ sections:
       **[→ Join the First 333 Artists](/artists)**
 
       **[→ For Fans](/fans)**
-    actions:
-      - label: Join the First 333 Artists
-        altText: Join Nāda as an artist
-        url: /artists
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - label: For Fans
-        altText: How Nāda works for fans
-        url: /fans
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
