@@ -16,6 +16,8 @@ sections:
 
       Most platforms take a massive cut and never show you where your money goes. Nāda is a nonprofit. There's no VC pulling profit. Every dollar you send to an artist is logged on a public ledger — traceable, honest, real.
 
+      Music generates $40B every year. Artists earn less than $30K a year — if even that. Nāda exists to fix that.
+
       ## How to Support an Artist on Nāda
 
       **1. Find an artist you love**
@@ -68,6 +70,10 @@ sections:
       Your $5 tip on Nāda does more for an artist than 10,000 streams anywhere else.
 
       *From nothing — for all.*
+
+      **[→ Find Artists to Support](/)**
+
+      **[→ For Artists](/artists)**
     actions:
       - label: Find Artists to Support
         altText: Discover artists on Nāda
