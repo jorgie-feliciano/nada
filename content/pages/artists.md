@@ -14,7 +14,7 @@ sections:
 
       ## The Problem
 
-      Labels own your masters. Platforms hide payout math. 82% of artists earn less than $30K a year. You can't see where the money goes or have a say in how the industry runs.
+      Labels own your masters. Platforms hide payout math. 82% of artists earn less than $30K a year — if even that. You can't see where the money goes or have a say in how the industry runs.
 
       Nāda is the nonprofit alternative.
 
@@ -67,6 +67,10 @@ sections:
       Join the first 333 artists building the world's first fully transparent, nonprofit music economy. Early artists get priority access to grants, governance votes, and direct support from the founding community.
 
       *From nothing — for all.*
+
+      **[→ Join the First 333 Artists](mailto:contact@nada.foundation)**
+
+      **[→ Back to Home](/)**
     actions:
       - label: Join the First 333 Artists
         altText: Sign up as an early Nāda artist
