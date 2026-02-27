@@ -1,22 +1,22 @@
 ---
 type: PageLayout
-title: Nada Foundation - from nothing | | for all
+title: Nāda Foundation - from nothing | | for all
 slug: /
 sections:
   - type: GenericSection
     title:
-      text: nada
+      text: nāda
       color: text-dark
       type: TitleBlock
     subtitle: from nothing | | for all
     text: |
       A nonprofit music economy where artists keep their rights, get paid transparently, and help govern the platform together with their listeners.
 
-      Music generates $40B every year. 82% of artists earn less than $30K. Labels own their masters. Platforms hide the math. Nada changes that — with open ledgers, direct payouts, and artist-governed grants.
+      Music generates $40B every year. 82% of artists earn less than $30K. Labels own their masters. Platforms hide the math. Nāda changes that — with open ledgers, direct payouts, and artist-governed grants.
 
       ## You Keep 100% of Your Rights
 
-      Upload your track, set splits with your collaborators, and register everything on-chain. Nada never owns your masters or publishing. It just tracks and routes value — transparently.
+      Upload your track, set splits with your collaborators, and register everything on-chain. Nāda never owns your masters or publishing. It just tracks and routes value — transparently.
 
       ## You See Every Dollar
 
@@ -24,7 +24,7 @@ sections:
 
       ## You Help Shape the Rules
 
-      Holding and using Nada tokens gives you a voice in how the platform evolves: grants, fees, features, and ethics. Governance is locked into a nonprofit structure. It cannot be sold or flipped.
+      Holding and using Nāda tokens gives you a voice in how the platform evolves: grants, fees, features, and ethics. Governance is locked into a nonprofit structure. It cannot be sold or flipped.
 
       ## How It Works for Artists
 
@@ -36,17 +36,17 @@ sections:
 
       ## The Dual-Token System
 
-      **NADA** — Governance token. Fixed supply of 108,000,000. Used for voting on grants, platform decisions, and ecosystem direction.
+      **NĀDA** — Governance token. Fixed supply of 108,000,000. Used for voting on grants, platform decisions, and ecosystem direction.
 
       **RESONA** — Engagement token. Earned by artists and fans for real participation: uploads, tips, curation, and voting. Redeemable for access and platform rewards.
 
       ## The Three-Body Architecture
 
-      **Nada Foundation** — 501(c)(3) nonprofit stewarding the mission and maintaining legal compliance.
+      **Nāda Foundation** — 501(c)(3) nonprofit stewarding the mission and maintaining legal compliance.
 
-      **Nada Trust** — Legal custodian of intellectual property and digital assets.
+      **Nāda Trust** — Legal custodian of intellectual property and digital assets.
 
-      **Nada DAO** — On-chain governance enabling collective decision-making through smart contracts on the XRP Ledger.
+      **Nāda DAO** — On-chain governance enabling collective decision-making through smart contracts on the XRP Ledger.
 
       ## Public Transparency
 
@@ -55,7 +55,7 @@ sections:
       *From nothing — for all.*
     actions:
       - label: Join the First 333 Artists
-        altText: Join Nada as an artist
+        altText: Join Nāda as an artist
         url: /artists
         showIcon: true
         icon: arrowRight
@@ -63,7 +63,7 @@ sections:
         style: primary
         elementId: ''
       - label: For Fans
-        altText: How Nada works for fans
+        altText: How Nāda works for fans
         url: /fans
         showIcon: false
         icon: arrowRight
