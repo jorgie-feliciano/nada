@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Nada for Artists - Keep Your Rights, Get Paid Fairly
+title: Nāda for Artists - Keep Your Rights, Get Paid Fairly
 slug: artists
 sections:
   - type: GenericSection
@@ -10,17 +10,17 @@ sections:
       type: TitleBlock
     subtitle: Keep your rights. See every dollar. Shape the system.
     text: |
-      Music is yours. Nada makes sure it stays that way.
+      Music is yours. Nāda makes sure it stays that way.
 
       ## The Problem
 
       Labels own your masters. Platforms hide payout math. 82% of artists earn less than $30K a year. You can't see where the money goes or have a say in how the industry runs.
 
-      Nada is the nonprofit alternative.
+      Nāda is the nonprofit alternative.
 
       ## 1. Upload and Own
 
-      Drag your MP3 or WAV. Set splits with your collaborators: you 70%, producer 20%, engineer 10% — whatever you agree on. Register your track on the XRP Ledger in seconds. Free. You keep 100% of your rights forever. Nada owns nothing.
+      Drag your MP3 or WAV. Set splits with your collaborators: you 70%, producer 20%, engineer 10% — whatever you agree on. Register your track on the XRP Ledger in seconds. Free. You keep 100% of your rights forever. Nāda owns nothing.
 
       ## 2. Fans Support You Directly
 
@@ -32,7 +32,7 @@ sections:
 
       ## 4. Shape the Platform
 
-      Hold NADA tokens and vote monthly on:
+      Hold NĀDA tokens and vote monthly on:
       - Grant allocation: who gets funding and how much
       - Platform fees and features
       - Ethics and governance decisions
@@ -53,7 +53,7 @@ sections:
 
       **RESONA** — Earn RESONA for uploading tracks, participating in governance votes, and completing Resonance Academy modules. Redeem for platform perks and priority grant access.
 
-      **NADA** — Governance token. Distributed to active artists. Use it to vote on grants and platform direction.
+      **NĀDA** — Governance token. Distributed to active artists. Use it to vote on grants and platform direction.
 
       ## Roadmap
 
@@ -69,7 +69,7 @@ sections:
       *From nothing — for all.*
     actions:
       - label: Join the First 333 Artists
-        altText: Sign up as an early Nada artist
+        altText: Sign up as an early Nāda artist
         url: mailto:contact@nada.foundation
         showIcon: true
         icon: arrowRight
@@ -77,7 +77,7 @@ sections:
         style: primary
         elementId: ''
       - label: Read the Whitepaper
-        altText: Nada artist whitepaper
+        altText: Nāda artist whitepaper
         url: /
         showIcon: false
         icon: arrowRight
