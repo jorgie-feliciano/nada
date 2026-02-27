@@ -12,7 +12,7 @@ sections:
     text: |
       A nonprofit music economy where artists keep their rights, get paid transparently, and help govern the platform together with their listeners.
 
-      Music generates $40B every year. 82% of artists earn less than $30K. Labels own their masters. Platforms hide the math. Nāda changes that — with open ledgers, direct payouts, and artist-governed grants.
+      Music generates $40B every year. 82% of artists earn less than $30K a year — if even that. Labels own their masters. Platforms hide the math. Nāda changes that — with open ledgers, direct payouts, and artist-governed grants.
 
       ## You Keep 100% of Your Rights
 
@@ -53,6 +53,10 @@ sections:
       Total treasury balance. Total paid to artists to date. Active grants and recipients. All visible publicly — no login required. This is what a fair music economy looks like.
 
       *From nothing — for all.*
+
+      **[→ Join the First 333 Artists](/artists)**
+
+      **[→ For Fans](/fans)**
     actions:
       - label: Join the First 333 Artists
         altText: Join Nāda as an artist
