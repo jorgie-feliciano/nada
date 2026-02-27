@@ -75,6 +75,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        type: Button
         elementId: ''
       - label: Back to Home
         altText: Return to Nāda homepage
@@ -83,6 +84,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        type: Link
         elementId: ''
     colors: bg-light-fg-dark
     styles:
